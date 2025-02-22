@@ -7,4 +7,11 @@
         <li>git branch (check branch)</li>
         <li>git branc -m (change branch name) </li>
         <li>git push -u origin main (future short command than only use git push)</li>
+        <li>git pull origin {master/branch}</li>
  </ul>
+
+   <ul>
+        <li>git checkout -b new-branch-name(create new branch and switch branch) </li>
+        <li>git checkout {branch name} </li>
+        <li>git branch -d {branch name}(delete branch) </li>
+    </ul>
