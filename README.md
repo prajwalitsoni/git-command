@@ -14,4 +14,6 @@
         <li>git checkout -b new-branch-name(create new branch and switch branch) </li>
         <li>git checkout {branch name} </li>
         <li>git branch -d {branch name}(delete branch) </li>
-    </ul>
+        <li>git diff {branch name}</li>
+        <li>git merge (branch name) {merge branch}</li>
+    </ul>git status
