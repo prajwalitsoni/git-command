@@ -7,5 +7,4 @@
         <li>git branch (check branch)</li>
         <li>git branc -m (change branch name) </li>
         <li>git push -u origin main (future short command than only use git push)</li>
-        
-    </ul>
+ </ul>
