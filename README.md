@@ -16,4 +16,10 @@
         <li>git branch -d {branch name}(delete branch) </li>
         <li>git diff {branch name}</li>
         <li>git merge (branch name) {merge branch}</li>
-    </ul>git status
+    </ul>
+       <ul>
+        <li>git reset {file name}</li>
+        <li>git reset HEAD~1 </li>
+        <li>git log </li>
+        <li>git reset {commit->id} </li>
+    </ul>
